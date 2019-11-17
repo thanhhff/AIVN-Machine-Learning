@@ -44,3 +44,7 @@
   - [ ] Model Selection and Train/Validation/Test Sets
   - [ ] Diagnosing Bias vs. Variance
   - [ ] Error Metrics for Skewed Classes
+  
+- [ ] Tuần 7: TensorFlow 
+
+- [ ] Tuần 8: Deep Learning 
