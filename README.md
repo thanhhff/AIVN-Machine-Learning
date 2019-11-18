@@ -6,7 +6,7 @@
 
 - [ ] Tuần 0: Giới thiệu về khoá học
   - [ ] ?
-  - [ ] ?
+  - [ ] Google Colab & Tips
   - [ ] Hướng dẫn cài đặt Python / Jupyter Notebook 
 
 - [ ] Tuần 1: Kiến thức toán cơ bản 
