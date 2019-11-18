@@ -1,4 +1,4 @@
-# AIVN-Course-3-Machine-Learning
+# AIVN-Course-Machine-Learning
 
 - [ ] Giới thiệu khoá học 
   - [ ] Giới thiệu
