@@ -43,3 +43,28 @@
   - [ ] Backpropagation Algorithm
   - [ ] Gradient Checking
   - [ ] Random Initialization
+  
+- [ ] Tuần 6: Advice for Applying Machine Learning
+  - [ ] Evaluating a Hypothesis
+  - [ ] Model Selection and Train/Validation/Test Sets
+  - [ ] Diagnosing Bias vs. Variance
+  - [ ] Regularization and Bias/Variance
+  - [ ] Learning Curves
+  - [ ] Machine Learning System Design
+  
+- [ ] Tuần 7: Learning with Large Datasets
+  - [ ] Stochastic Gradient Descent
+  - [ ] Mini-Batch Gradient Descent
+
+- [ ] Tuần 8: Giải thuật Gen di truyền 
+
+- [ ] Tuần 9: Support Vector Machine
+
+- [ ] Tuần 10: Unsupervised Learning
+  - [ ] K-Means Algorithm
+  - [ ] Principal Component Analysis Algorithm
+
+- [ ] Tuần 11: Anomaly Detection & Recommender Systems
+
+- [ ] Tuần 12: Kết thúc
+
