@@ -37,3 +37,9 @@
   - [ ] Normal Equation
   
 - [ ] Tuần 5: Neural Networks: Representation
+  - [ ] Non-linear Hypotheses
+  - [ ] Multiclass Classification
+  - [ ] Cost Function
+  - [ ] Backpropagation Algorithm
+  - [ ] Gradient Checking
+  - [ ] Random Initialization
