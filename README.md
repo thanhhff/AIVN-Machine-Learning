@@ -66,7 +66,7 @@
 - [ ] Tuần 9: Structuring Projects sử dụng Deep Learning
   - [ ] Các vấn đề trong hệ thống sử dụng Deep Learning
   - [ ] Xây dựng hệ thống DL nhanh 
-  - [ ] Dữ liệu đến từ các bộ dữ liệu khác nhau
+  - [ ] Dữ liệu đến từ các bộ dữ liệu không cùng phân phối 
   - [ ] Transfer Learning 
   - [ ] Multi-task Learning
   - [ ] End-to-end Learning 
