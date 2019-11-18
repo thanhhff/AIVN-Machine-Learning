@@ -4,11 +4,11 @@
 - [ ] Tuần 0: Giới thiệu về khoá học
   - [ ] ?
   - [ ] ?
-  - [ ] ?
+  - [ ] Hướng dẫn cài đặt Python / Jupyter Notebook 
 
 - [ ] Tuần 1: Kiến thức toán cơ bản 
   - [ ] Đại số tuyến tính
-    - Matrices and Vectors
+    - [ ] Matrices and Vectors
     - ?
   - [ ] Giải tích
     - ?
@@ -16,10 +16,12 @@
   
 - [ ] Tuần 2: Lập trình Python 
   - [ ] Làm quen với Python 
-  - [ ] ?
-  - [ ] ?
+  - [ ] Thư viện Numpy
+  - [ ] Thư viện Matplotlib 
+  - [ ] Các hàm Activation Function 
+  - [ ] Lập trình Python các hàm kích hoạt 
   
-- [ ] Tuần 3: Giới thiệu về Machine Learning / Deep Learning và bài toán hồi quy
+- [ ] Tuần 3: Giới thiệu về Machine Learning và bài toán hồi quy
   - [ ] Giới thiệu
   - [ ] Phân loại nhóm các thuật toán 
   - [ ] Linear Regression with One Variable
@@ -36,15 +38,44 @@
 - [ ] Tuần 5: Neural Networks: Representation
   - [ ] Non-linear Hypotheses
   - [ ] Cost Function
+  - [ ] Computational Graph 
   - [ ] Backpropagation Algorithm
   - [ ] Random Initialization
   
-- [ ] Tuần 6: Ứng dụng xây dựng hệ thống Machine Learning 
+- [ ] Tuần 6: Structuring Machine Learning Projects (Cơ bản)
   - [ ] Các vấn đề trong hệ thống ML 
   - [ ] Model Selection and Train/Validation/Test Sets
   - [ ] Diagnosing Bias vs. Variance
   - [ ] Error Metrics for Skewed Classes
+  - [ ] Stochastic, mini-batch, và batch gd
   
-- [ ] Tuần 7: TensorFlow 
+- [ ] Tuần 6 (Bổ sung): TensorFlow (2.x)
+  - [ ] Linear Regression use TensorFlow
+  - [ ] Logistic Regression use TensorFlow
 
-- [ ] Tuần 8: Deep Learning 
+- [ ] Tuần 7: Neural Networks nâng cao
+  - [ ] Shallow Neural Networks
+  - [ ] Deep Neural Networks
+  
+- [ ] Tuần 8: Improving Deep Neural Networks
+  - [ ] Hyperparameter tuning
+  - [ ] Regularization
+  - [ ] Optimization
+  - [ ] Gradient Checking
+  
+- [ ] Tuần 9: Structuring Projects sử dụng Deep Learning
+  - [ ] Các vấn đề trong hệ thống sử dụng Deep Learning
+  - [ ] Xây dựng hệ thống DL nhanh 
+  - [ ] Dữ liệu đến từ các bộ dữ liệu khác nhau
+  - [ ] Transfer Learning 
+  - [ ] Multi-task Learning
+  - [ ] End-to-end Learning 
+  
+- [ ] Tuần 10: Convolutional Neural Networks
+
+- [ ] Tuần ?: Sequence Models
+
+- [ ] Tuần ?: Các hướng đi tiếp theo 
+  - [ ] Cách tiếp cận một bài toán nghiên cứu 
+  - [ ] ? 
+  - [ ] Kết thúc khoá học 
