@@ -1,4 +1,7 @@
 # AIVN-Course-AI-For-Everyone
+
+[ ] Dự kiến 2020 - Đang tiến hành 
+
 ## Mục Lục 
 
 - [ ] Tuần 0: Giới thiệu về khoá học
