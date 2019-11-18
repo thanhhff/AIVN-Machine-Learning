@@ -1,6 +1,6 @@
 # AIVN-Course-AI-For-Everyone
 
-[ ] Dự kiến 2020 - Đang tiến hành 
+- [ ] Dự kiến 2020 - Đang tiến hành 
 
 ## Mục Lục 
 
