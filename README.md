@@ -66,5 +66,7 @@
 
 - [ ] Tuần 11: Anomaly Detection & Recommender Systems
 
-- [ ] Tuần 12: Kết thúc
+- [ ] Tuần 12: TensorFlow 
+
+- [ ] Tuần 13: Kết thúc
 
