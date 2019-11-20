@@ -2,10 +2,10 @@
 
 - [ ] Tuần 0: Giới thiệu khoá học 
   - [ ] Giới thiệu
-  - [ ] Kỹ năng sử dụng Google Search 
+  - [x] [Kỹ năng sử dụng Google Search](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb)
   - [ ] Hướng dẫn sử dụng Python trên Web 
   - [ ] Jupyter Notebook và kỹ thuật dùng Markdown
-  - [x] [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm%20.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm%20.ipynb)
+  - [x] [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb)
   - [ ] Hướng dẫn sử dụng Google Colab
   - [x] [Mẹo sử dụng Google Colab](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb)
   
