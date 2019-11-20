@@ -13,7 +13,9 @@
     - [ ] Matrices and Vectors
   - [ ] Giải tích 
   - [ ] Xác suất thống kê 
-  - [ ] Python cơ bản 
+  - [ ] Python 
+    - [ ] Numpy 
+    - [ ] Matplotlib
   
 - [ ] Tuần 2: Introduction
   - [ ] Giới thiệu về Machine Learning và các nhóm thuật toán 
