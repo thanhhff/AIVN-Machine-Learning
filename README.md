@@ -22,6 +22,8 @@
   - [ ] Linear Regression with One Variable
     - [ ] Cost Function
   - [ ] Gradient Descent
+  - [ ] Quiz 
+  - [ ] Assignment 1: Linear Regression with One Variable
   
 - [ ] Tuần 3: Linear Regression with Multiple Variables
   - [ ] Cost function
