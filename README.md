@@ -6,7 +6,8 @@
   - [ ] Hướng dẫn sử dụng Python / Jupyter Notebook 
   - [ ] Google Colab & Tips
   - [x] [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm%20.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm%20.ipynb)
-  - [ ] ?
+  - [ ] Hướng dẫn sử dụng Google Colab
+  - [x] [Mẹo sử dụng Google Colab](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb)
   
 - [ ] Tuần 1: Ôn tập kiến thức toán và Python cơ bản  
   - [ ] Đại số tuyến tính
