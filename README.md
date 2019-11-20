@@ -5,7 +5,7 @@
   - [ ] Hướng dẫn sử dụng Google Dataset Search 
   - [ ] Hướng dẫn sử dụng Python / Jupyter Notebook 
   - [ ] Google Colab & Tips
-  - [x] [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm%20.ipynb)
+  - [x] [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm%20.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm%20.ipynb)
   - [ ] ?
   
 - [ ] Tuần 1: Ôn tập kiến thức toán và Python cơ bản  
