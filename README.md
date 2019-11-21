@@ -1,5 +1,7 @@
 # AIVN-Course-Machine-Learning
 
+- [ ] Đang trong tiến trình xây dựng (2020)
+
 - [ ] Tuần 0: Giới thiệu khoá học 
   - [ ] Giới thiệu
   - [x] [Kỹ năng sử dụng Google Search](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb)
