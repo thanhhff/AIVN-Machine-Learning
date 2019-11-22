@@ -25,7 +25,7 @@
     - [ ] Supervised Learning
     - [ ] Unsupervised Learning
   - [x] [Linear Regression with One Variable](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb)
-  - [ ] Quiz 
+  - [x] [Quiz](https://forms.gle/qiNdaz1tfzVFw7PY6)
   - [ ] Assignment 1: Linear Regression with One Variable
   
 - [ ] Tuần 3: Linear Regression with Multiple Variables
