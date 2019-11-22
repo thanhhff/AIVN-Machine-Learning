@@ -20,9 +20,8 @@
     - [ ] Matplotlib
   
 - [ ] Tuần 2: Introduction
-  - [ ] Giới thiệu về Machine Learning và các nhóm thuật toán 
-    - [ ] Supervised Learning
-    - [ ] Unsupervised Learning
+  - [x] [Giới thiệu về Machine Learning](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb)
+  - [ ] Các nhóm thuật toán trong Machine Learning 
   - [x] [Linear Regression with One Variable](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb)
   - [ ] Python 
     - [ ] Numpy 
