@@ -25,8 +25,8 @@
     - [ ] Supervised Learning
     - [ ] Unsupervised Learning
   - [ ] Linear Regression with One Variable
-    - [ ] Cost Function
-  - [ ] Gradient Descent
+    - [x] Cost Function
+    - [ ] Gradient Descent
   - [ ] Quiz 
   - [ ] Assignment 1: Linear Regression with One Variable
   
