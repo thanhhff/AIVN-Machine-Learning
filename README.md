@@ -27,7 +27,7 @@
     - [ ] Matplotlib
   - [x] [Quiz Linear Regression](https://forms.gle/qiNdaz1tfzVFw7PY6)
   - [ ] Assignment 1: Python Basic with Numpy 
-  - [ ] Assignment 2: Linear Regression with One Variable
+  - [x] [Assignment 2: Linear Regression with One Variable - Download](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise2.zip) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise2-Linear-Regression-with-One-Variable.ipynb)
   
 - [ ] Tuần 3: Linear Regression with Multiple Variables
   - [ ] Cost function
