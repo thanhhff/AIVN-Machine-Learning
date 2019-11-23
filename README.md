@@ -49,14 +49,11 @@
   - [ ] Cost Function
   - [ ] Normal Equation
   
-- [ ] Tuần 5: Neural Networks: Representation
-  - [ ] Non-linear Hypotheses
-  - [ ] Multiclass Classification
-  - [ ] Cost Function
-  - [ ] Backpropagation Algorithm
-  - [ ] Gradient Checking
-  - [ ] Random Initialization
-  
+- [ ] Tuần 5: Softmax & Learning with Large Datasets
+  - [ ] Softmax
+  - [ ] Stochastic Gradient Descent
+  - [ ] Mini-Batch Gradient Descent
+ 
 - [ ] Tuần 6: Advice for Applying Machine Learning
   - [ ] Evaluating a Hypothesis
   - [ ] Model Selection and Train/Validation/Test Sets
@@ -65,21 +62,27 @@
   - [ ] Learning Curves
   - [ ] Machine Learning System Design
   
-- [ ] Tuần 7: Learning with Large Datasets
-  - [ ] Stochastic Gradient Descent
-  - [ ] Mini-Batch Gradient Descent
+- [ ] Tuần 7: TensorFlow 
+  
+- [ ] Tuần 8: Neural Networks: Representation
+  - [ ] Non-linear Hypotheses
+  - [ ] Multiclass Classification
+  - [ ] Cost Function
+  - [ ] Backpropagation Algorithm
+  - [ ] Gradient Checking
+  - [ ] Random Initialization
 
-- [ ] Tuần 8: Giải thuật Gen di truyền 
+- [ ] Tuần 9: Giải thuật Gen di truyền 
+  - [ ] Neural Network + GA: https://www.youtube.com/watch?v=aeWmdojEJf0
+  
+- [ ] Tuần 1-: Support Vector Machine
 
-- [ ] Tuần 9: Support Vector Machine
-
-- [ ] Tuần 10: Unsupervised Learning
+- [ ] Tuần 11: Unsupervised Learning
   - [ ] K-Means Algorithm
   - [ ] Principal Component Analysis Algorithm
 
-- [ ] Tuần 11: Anomaly Detection & Recommender Systems
+- [ ] Tuần 12: Anomaly Detection & Recommender Systems
 
-- [ ] Tuần 12: TensorFlow 
 
-- [ ] Tuần 13: Kết thúc
+- [ ] Kết thúc
 
