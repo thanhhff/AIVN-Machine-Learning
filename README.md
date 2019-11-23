@@ -12,11 +12,14 @@
   - [x] [Mẹo sử dụng Google Colab](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb)
   
 - [ ] Tuần 1: Ôn tập kiến thức toán và Python cơ bản  
-  - [ ] Đại số tuyến tính
-    - [ ] Matrices and Vectors
-  - [ ] Giải tích 
-  - [ ] Xác suất thống kê 
+  - [ ] Đại số tuyến tính cơ bản
+  - [ ] Giải tích cơ bản
+  - [ ] Xác suất thống kê cơ bản 
   - [ ] Python cơ bản
+  - [ ] Những lỗi thường gặp trong Python
+  - [ ] Quiz: Kiến thức toán và Python 
+  - [ ] Assignment 1: Cài đặt các công thức toán cơ bản bằng Python 
+  
   
 - [ ] Tuần 2: Giới thiệu Machine Learning và bài toán hồi quy tuyến tính đơn biến
   - [x] [Giới thiệu về Machine Learning](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb)
