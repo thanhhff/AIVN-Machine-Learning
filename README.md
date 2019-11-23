@@ -22,10 +22,8 @@
   - [x] [Giới thiệu về Machine Learning](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb)
   - [x] [Các nhóm thuật toán trong Machine Learning](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb)
   - [x] [Linear Regression with One Variable](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb)
-  - [ ] Python 
-    - [ ] Numpy 
-    - [ ] Matplotlib
-  - [x] [Quiz Linear Regression](https://forms.gle/qiNdaz1tfzVFw7PY6)
+  - [ ] Python - Numpy 
+  - [x] [Quiz Linear Regression with One Variable](https://forms.gle/qiNdaz1tfzVFw7PY6)
   - [x] [Assignment 1: Python Basic with Numpy - Download](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise1-Python-Basics-With_Numpy.zip) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise1-Python-Basics-With-Numpy.ipynb)
   - [x] [Assignment 2: Linear Regression with One Variable - Download](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise2.zip) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise2-Linear-Regression-with-One-Variable.ipynb)
   
@@ -36,6 +34,10 @@
   - [ ] Feature Normalization
   - [ ] Gradient Descent Tips
   - [ ] Normal Equation
+  - [ ] Python - Matplotlib
+  - [ ] Quiz Linear Regression with Multiple Variables
+  - [ ] Assignment ? - Python_Matplotlib
+  - [ ] Assignment ? - Linear Regression with Multiple Variables
   
 - [ ] Tuần 4: Logistic Regression
   - [ ] Binary Classification
