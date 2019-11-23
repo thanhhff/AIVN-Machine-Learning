@@ -12,20 +12,21 @@
   - [x] [Mẹo sử dụng Google Colab](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb)
   
 - [ ] Tuần 1: Ôn tập kiến thức toán và Python cơ bản  
-  - [ ] Đại số tuyến tính
-    - [ ] Matrices and Vectors
-  - [ ] Giải tích 
-  - [ ] Xác suất thống kê 
+  - [ ] Đại số tuyến tính cơ bản
+  - [ ] Giải tích cơ bản
+  - [ ] Xác suất thống kê cơ bản 
   - [ ] Python cơ bản
+  - [ ] Những lỗi thường gặp trong Python
+  - [ ] Quiz: Kiến thức toán và Python 
+  - [ ] Assignment 1: Cài đặt các công thức toán cơ bản bằng Python 
+  
   
 - [ ] Tuần 2: Giới thiệu Machine Learning và bài toán hồi quy tuyến tính đơn biến
   - [x] [Giới thiệu về Machine Learning](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb)
   - [x] [Các nhóm thuật toán trong Machine Learning](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb)
   - [x] [Linear Regression with One Variable](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb)
-  - [ ] Python 
-    - [ ] Numpy 
-    - [ ] Matplotlib
-  - [x] [Quiz Linear Regression](https://forms.gle/qiNdaz1tfzVFw7PY6)
+  - [ ] Python - Numpy 
+  - [x] [Quiz Linear Regression with One Variable](https://forms.gle/qiNdaz1tfzVFw7PY6)
   - [x] [Assignment 1: Python Basic with Numpy - Download](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise1-Python-Basics-With_Numpy.zip) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise1-Python-Basics-With-Numpy.ipynb)
   - [x] [Assignment 2: Linear Regression with One Variable - Download](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise2.zip) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Exercise2-Linear-Regression-with-One-Variable.ipynb)
   
@@ -36,6 +37,10 @@
   - [ ] Feature Normalization
   - [ ] Gradient Descent Tips
   - [ ] Normal Equation
+  - [ ] Python - Matplotlib
+  - [ ] Quiz Linear Regression with Multiple Variables
+  - [ ] Assignment ? - Python_Matplotlib
+  - [ ] Assignment ? - Linear Regression with Multiple Variables
   
 - [ ] Tuần 4: Logistic Regression
   - [ ] Binary Classification
