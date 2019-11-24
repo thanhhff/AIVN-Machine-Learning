@@ -41,7 +41,7 @@
   - [ ] Feature Normalization
   - [ ] Gradient Descent Tips
   - [ ] Normal Equation
-  - [ ] Python - Matplotlib
+  - [x] [Python - Matplotlib](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb)
   - [ ] Quiz Linear Regression with Multiple Variables
   - [ ] Assignment ? - Python_Matplotlib
   - [ ] Assignment ? - Linear Regression with Multiple Variables
