@@ -93,7 +93,7 @@
 
 Trong quá trình thiết kế và xây dựng khoá học không tránh khỏi những thiếu sót. Rất mong nhận được những ý kiến đóng góp và nhận xét của các bạn để nội dung hoàn thiện hơn nữa. Mọi đóng góp của các bạn sẽ đều được lưu lại tại [contributors.md](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/contributors.md)
 
-Trân trọng cảm ơn!
+Trân trọng cảm ơn !
 
 ## Liên Hệ 
 Nếu có bất kỳ thắc mắc, phát hiện lỗi hay nhận xét nào về nội dung, các bạn vui lòng gửi liên hệ qua [email](mailto:thanhnguyen200399@gmail.com) hoặc tài khoản xã hội [Facebook](https://fb.me/thanhhff). 
