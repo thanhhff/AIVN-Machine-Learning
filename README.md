@@ -2,7 +2,6 @@
 
 ## Nội Dung
 ---
-
 - [ ] Đang trong tiến trình xây dựng (2020)
 
 - [ ] Tuần 0: Giới thiệu khoá học 
@@ -92,4 +91,4 @@
 
 ---
 ## Liên Hệ 
-Nếu có bất kỳ thắc mắc nào hay những lỗi trong nội dung. Các bạn vui lòng gửi liên hệ qua [email](thanhnguyen200399@gmail.com) hoặc tài khoản xã hội [Facebook](https://fb.me/thanhhff). 
+Nếu có bất kỳ thắc mắc nào hay những lỗi trong nội dung. Các bạn vui lòng gửi liên hệ qua [email](mailto:thanhnguyen200399@gmail.com) hoặc tài khoản xã hội [Facebook](https://fb.me/thanhhff). 
