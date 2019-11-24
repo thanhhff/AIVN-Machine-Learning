@@ -96,5 +96,5 @@ Trong quá trình thiết kế và xây dựng khoá học không tránh khỏi 
 Trân trọng cảm ơn!
 
 ## Liên Hệ 
-Nếu có bất kỳ thắc mắc, phát hiện lỗi hay bất kỳ nhận xét nào, các bạn vui lòng gửi liên hệ qua [email](mailto:thanhnguyen200399@gmail.com) hoặc tài khoản xã hội [Facebook](https://fb.me/thanhhff). 
+Nếu có bất kỳ thắc mắc, phát hiện lỗi hay nhận xét nào về nội dung, các bạn vui lòng gửi liên hệ qua [email](mailto:thanhnguyen200399@gmail.com) hoặc tài khoản xã hội [Facebook](https://fb.me/thanhhff). 
 
