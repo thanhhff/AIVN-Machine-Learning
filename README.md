@@ -1,28 +1,40 @@
 # AIVN-Course-Machine-Learning
 
-## Nội Dung
-
 - [ ] Đang trong tiến trình xây dựng (2020)
 
-- [ ] Tuần 0: Giới thiệu khoá học 
-  - [ ] Giới thiệu
-  - [x] [Kỹ năng sử dụng Google Search](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb)
-  - [x] [Hướng dẫn sử dụng Python trên Web AIVIETNAM](https://aivietnam.ai/courses/aisummer2019/lessons/huong-dan-viet-chuong-trinh-python-tren-web/)
-  - [ ] Jupyter Notebook và kỹ thuật dùng Markdown
-  - [x] [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb)
-  - [ ] Hướng dẫn sử dụng Google Colab
-  - [x] [Mẹo sử dụng Google Colab](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb)
-  - [ ] Hướng dẫn làm bài tập trong khoá học 
-  
-- [ ] Tuần 1: Ôn tập kiến thức toán và Python cơ bản  
-  - [ ] Đại số tuyến tính cơ bản
-  - [ ] Giải tích cơ bản
-  - [ ] Xác suất thống kê cơ bản 
-  - [ ] Python cơ bản
-  - [ ] Những lỗi thường gặp trong Python
-  - [ ] Quiz: Kiến thức toán và Python 
-  - [ ] Assignment 1: Cài đặt các công thức toán cơ bản bằng Python 
-  
+## Nội Dung
+
+| **Tuần 0** |**Giới thiệu khoá học**| Github | Nbviewer |
+|:---:|:---|:---:|:---:|
+| 1 | Giới thiệu | | |
+| 2 | Kỹ năng sử dụng Google Search| <a href="/" target="_blank">View</a>  | <a href="https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb" target="_blank">View</a> |
+| 3 | [Hướng dẫn sử dụng Python trên Web AIVIETNAM](https://aivietnam.ai/courses/aisummer2019/lessons/huong-dan-viet-chuong-trinh-python-tren-web/) |  |
+| 4 | Jupyter Notebook và kỹ thuật dùng Markdown | nbviewer |
+| 5 | [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) |
+| 6 | Hướng dẫn sử dụng Google Colab | nbviewer |
+| 8 | [Mẹo sử dụng Google Colab](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb)| [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb) |
+| 7 | Hướng dẫn làm bài tập trong khoá học | nbviewer |
+| *** | | |
+| **Tuần 1** |**Ôn tập kiến thức toán và Python**| |
+| 1 | Đại số tuyến tính và giải tích cơ bản | nbviewer |
+| 2 | Xác suất thống kê cơ bản  | nbviewer |
+| 3 | Python cơ bản | nbviewer |
+| 4 | Những lỗi thường gặp trong Python | nbviewer |
+| Quiz | Kiến thức toán và Python | nbviewer |
+| Assignment | Cài đặt các công thức toán cơ bản bằng Python | nbviewer |
+| *** | | |
+| **Tuần 2** |**Ôn tập kiến thức toán và Python**| |
+| 1 | Giới thiệu về Machine Learning | nbviewer |
+| 2 | Đại số tuyến tính và giải tích cơ bản | nbviewer |
+| 3 | Đại số tuyến tính và giải tích cơ bản | nbviewer |
+| 4 | Đại số tuyến tính và giải tích cơ bản | nbviewer |
+| 5 | Đại số tuyến tính và giải tích cơ bản | nbviewer |
+| 6 | Đại số tuyến tính và giải tích cơ bản | nbviewer |
+
+
+
+
+## Nội Dung Tiếp Theo
   
 - [x] Tuần 2: Giới thiệu Machine Learning và bài toán hồi quy tuyến tính đơn biến
   - [x] [Giới thiệu về Machine Learning](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb)
