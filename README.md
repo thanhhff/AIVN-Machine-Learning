@@ -23,7 +23,7 @@
 | Quiz | Kiến thức toán và Python | View | View |
 | Assignment | Cài đặt các công thức toán cơ bản bằng Python | View | View |
 | *** | | | |
-| **Tuần 2** |**Giới thiệu Machine Learning và Bài toán hồi quy tuyến tính đơn biến**| |
+| **Tuần 2** |**Giới thiệu Machine Learning** <br/>**và Bài toán hồi quy tuyến tính đơn biến** (Linear Regression with One Variable)| |
 | 1 | Giới thiệu về Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) |
 | 2 | Các nhóm thuật toán trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb) |
 | 3 | Linear Regression with One Variable <br/>(Hồi quy tuyến tính đơn biến)</br>| [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) |
@@ -32,6 +32,15 @@
 | Assignment |(Tuỳ Chọn) Optional - Python Numpy | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-python-numpy-optional.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-python-numpy-optional.ipynb) |
 | Assignment | Python Basic with Numpy in Machine Learning / Deep Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Python-Basics-With-Numpy.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Python-Basics-With-Numpy.ipynb) |
 | Assignment | Linear Regression with One Variable | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Linear-Regression-with-One-Variable.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Linear-Regression-with-One-Variable.ipynb) |
+| *** | | | |
+| **Tuần 3** |**Bài toán hồi quy tuyến tính đa biến** <br/>(Linear Regression with Multiple Variables)</br>| |
+| 1 | Linear Regression with Multiple Variables | View | View |
+| 2 | | View | View |
+| 3 | | View | View |
+| 4 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
+| Quiz | Linear Regression with Multiple Variables | View | View |
+| Assignment | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) |
+| Assignment | Linear Regression with Multiple Variables | View | View |
 
 
 ## Nội Dung Tiếp Theo 
@@ -93,7 +102,7 @@
 
 ## Đóng Góp 
 
-Trong quá trình thiết kế và xây dựng khoá học không tránh khỏi những thiếu sót. Rất mong nhận được những ý kiến đóng góp và nhận xét của các bạn để nội dung hoàn thiện hơn nữa. Mọi đóng góp của các bạn sẽ đều được lưu lại tại [CONTRIBUTING.md](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/contributors.md)
+Trong quá trình thiết kế và xây dựng khoá học không tránh khỏi những thiếu sót. Rất mong nhận được những ý kiến đóng góp và nhận xét của các bạn để nội dung hoàn thiện hơn nữa. Mọi đóng góp của các bạn sẽ đều được lưu lại tại [CONTRIBUTING.md](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/CONTRIBUTING.md)
 
 Trân trọng cảm ơn !
 
