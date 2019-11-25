@@ -7,12 +7,12 @@
 | **Tuần 0** |**Giới thiệu khoá học**| Github | Nbviewer |
 |:---:|:---|:---:|:---:|
 | 1 | Giới thiệu | | |
-| 2 | Kỹ năng sử dụng Google Search| View | View |
+| 2 | Kỹ năng sử dụng Google Search| [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb) |
 | 3 | Hướng dẫn sử dụng Python trên Web AIVIETNAM |  | View |
 | 4 | Jupyter Notebook và kỹ thuật dùng Markdown | View | View |
-| 5 | Hướng dẫn sử dụng PyCharm | View | View |
+| 5 | Hướng dẫn sử dụng PyCharm | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) |
 | 6 | Hướng dẫn sử dụng Google Colab | View | View |
-| 8 | Mẹo sử dụng Google Colab]| View | View |
+| 8 | Mẹo sử dụng Google Colab | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb) |
 | 7 | Hướng dẫn làm bài tập trong khoá học | View | View | 
 | *** | | | |
 | **Tuần 1** |**Ôn tập kiến thức toán và Python**| |
@@ -24,14 +24,14 @@
 | Assignment | Cài đặt các công thức toán cơ bản bằng Python | View | View |
 | *** | | | |
 | **Tuần 2** |**Giới thiệu Machine Learning và Bài toán hồi quy tuyến tính đơn biến**| |
-| 1 | Giới thiệu về Machine Learning | View | View |
-| 2 | Các nhóm thuật toán trong Machine Learning | View | View |
-| 3 | Linear Regression with One Variable | View | View |
-| 4 | Python - Numpy | View | View |
-| Quiz | Linear Regression with One Variable | View | View |
-| Assignment |(Tuỳ Chọn) Optional - Python Numpy | View | View |
-| Assignment | Python Basic with Numpy in Machine Learning / Deep Learning | View | View |
-| Assignment | Linear Regression with One Variable | View | View |
+| 1 | Giới thiệu về Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) |
+| 2 | Các nhóm thuật toán trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Phan-nhom-cac-thuat-toan-trong-Machine-Learning.ipynb) |
+| 3 | Linear Regression with One Variable <br/>(Hồi quy tuyến tính đơn biến)</br>| [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Linear-Regression-with-One-Variable.ipynb) |
+| 4 | Python - Numpy | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Python-Numpy.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Python-Numpy.ipynb) |
+| Quiz | Linear Regression with One Variable | | [View](https://forms.gle/jd4KuaX5Ji397MjJ9) |
+| Assignment |(Tuỳ Chọn) Optional - Python Numpy | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-python-numpy-optional.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-python-numpy-optional.ipynb) |
+| Assignment | Python Basic with Numpy in Machine Learning / Deep Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Python-Basics-With-Numpy.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Python-Basics-With-Numpy.ipynb) |
+| Assignment | Linear Regression with One Variable | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Linear-Regression-with-One-Variable.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Linear-Regression-with-One-Variable.ipynb) |
 
 
 ## Nội Dung Tiếp Theo 
