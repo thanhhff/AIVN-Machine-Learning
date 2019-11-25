@@ -12,8 +12,8 @@
 | 4 | Jupyter Notebook và kỹ thuật dùng Markdown | View | View |
 | 5 | Hướng dẫn sử dụng PyCharm | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) |
 | 6 | Hướng dẫn sử dụng Google Colab | View | View |
-| 8 | Mẹo sử dụng Google Colab | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb) |
-| 7 | Hướng dẫn làm bài tập trong khoá học | View | View | 
+| 7 | Mẹo sử dụng Google Colab | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20(S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD).ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/Tips%20Google%20Colab%20%28S%E1%BB%AD%20d%E1%BB%A5ng%20GPU%20mi%E1%BB%85n%20ph%C3%AD%29.ipynb) |
+| 8 | Cách học khoá học đạt hiệu quả cao & Hướng dẫn làm bài tập | View | View | 
 | *** | | | |
 | **Tuần 1** |**Ôn tập kiến thức toán và Python**| |
 | 1 | Đại số tuyến tính và giải tích cơ bản | View | View |
