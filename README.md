@@ -7,7 +7,7 @@
 | **Tuần 0** |**Giới thiệu khoá học**| Github | Nbviewer |
 |:---:|:---|:---:|:---:|
 | 1 | Giới thiệu | | |
-| 2 | Kỹ năng sử dụng Google Search| <a href="http://example.com/" target="_blank">View</a>  | <a href="https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb" target="_blank">View</a> |
+| 2 | Kỹ năng sử dụng Google Search| <a href="https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb" target="_blank">View</a> | <a href="https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/K%E1%BB%B9%20n%C4%83ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20Google%20Search.ipynb" target="_blank">View</a> |
 | 3 | [Hướng dẫn sử dụng Python trên Web AIVIETNAM](https://aivietnam.ai/courses/aisummer2019/lessons/huong-dan-viet-chuong-trinh-python-tren-web/) |  |
 | 4 | Jupyter Notebook và kỹ thuật dùng Markdown | nbviewer |
 | 5 | [Hướng dẫn sử dụng PyCharm](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%200/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20PyCharm.ipynb) |
