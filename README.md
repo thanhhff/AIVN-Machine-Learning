@@ -16,10 +16,11 @@
 | 8 | Cách học khoá học đạt hiệu quả cao & Hướng dẫn làm bài tập | View | View | 
 | *** | | | |
 | **Tuần 1** |**Ôn tập kiến thức toán và Python**| |
-| 1 | Đại số tuyến tính và giải tích cơ bản | View | View |
-| 2 | Xác suất thống kê cơ bản | View | View |
-| 3 | Python cơ bản |  View | View |
-| 4 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
+| 1 | Đại số tuyến tính cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/dai-so-tuyen-tinh.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/dai-so-tuyen-tinh.ipynb) |
+| 2 | Giải tích cơ bản | View | View |
+| 3 | Xác suất thống kê cơ bản | View | View |
+| 4 | Python cơ bản |  View | View |
+| 5 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
 | Quiz | Kiến thức toán và Python | View | View |
 | Assignment | Cài đặt các công thức toán cơ bản bằng Python | View | View |
 | *** | | | |
