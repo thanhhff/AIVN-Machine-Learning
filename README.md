@@ -19,8 +19,9 @@
 | 1 | Đại số tuyến tính cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/dai-so-tuyen-tinh.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/dai-so-tuyen-tinh.ipynb) |
 | 2 | Giải tích cơ bản | View | View |
 | 3 | Xác suất thống kê cơ bản | View | View |
-| 4 | Python cơ bản |  View | View |
-| 5 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
+| 4 | Ký hiệu toán thường dùng trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) |
+| 5 | Python cơ bản |  View | View |
+| 6 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
 | Quiz | Kiến thức toán và Python | View | View |
 | Assignment | Cài đặt các công thức toán cơ bản bằng Python | View | View |
 | *** | | | |
