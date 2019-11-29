@@ -38,27 +38,16 @@
 | *** | | | |
 | **Tuần 3** |**Bài toán hồi quy tuyến tính đa biến** <br/>(Linear Regression with Multiple Variables)</br>| |
 | 1 | Linear Regression with Multiple Variables | View | View |
-| 2 | | View | View |
-| 3 | | View | View |
-| 4 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
+| 2 | Feature Normalization và Vectorization| View | View |
+| 3 | Gradient Descent Tips | View | View | 
+| 4 | Nghiệm nhanh cho bài toán Linear Regression | View | View |
+| 5 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
 | Quiz | Linear Regression with Multiple Variables | View | View |
 | Assignment | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) |
 | Assignment | Linear Regression with Multiple Variables | View | View |
 
 
 ## Nội Dung Tiếp Theo 
-  
-- [ ] Tuần 3: Linear Regression with Multiple Variables
-  - [ ] Cost function
-  - [ ] Gradient Descent for Multiple Variables
-  - [ ] Matrix Notation
-  - [ ] Feature Normalization
-  - [ ] Gradient Descent Tips
-  - [ ] Normal Equation
-  - [x] [Python - Matplotlib](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb)
-  - [ ] Quiz Linear Regression with Multiple Variables
-  - [ ] [Assignment ? - Python-Matplotlib](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Exercise-Python-Matplotlib.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Exercise-Python-Matplotlib.ipynb)
-  - [ ] Assignment ? - Linear Regression with Multiple Variables
   
 - [ ] Tuần 4: Logistic Regression
   - [ ] Binary Classification
