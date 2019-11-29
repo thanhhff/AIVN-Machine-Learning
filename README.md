@@ -24,6 +24,7 @@
 | 6 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
 | Quiz | Kiến thức toán và Python | View | View |
 | Assignment | Cài đặt các công thức toán cơ bản bằng Python | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Cai-Dat-Cong-Thuc-Toan-Bang-Python.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Cai-Dat-Cong-Thuc-Toan-Bang-Python.ipynb) |
+| Assignment | Thực hiện tính hệ số tương quan giữa 2 ảnh bằng Python | View | View |
 | *** | | | |
 | **Tuần 2** |**Giới thiệu Machine Learning** <br/>**và Bài toán hồi quy tuyến tính đơn biến** (Linear Regression with One Variable)| |
 | 1 | Giới thiệu về Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Gioi-thieu-ve-Machine-Learning.ipynb) |
