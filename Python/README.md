@@ -1,3 +1,11 @@
+# Giới Thiệu 
+
+Trong phần nội dung này, sẽ chứa những lý thuyết cơ bản về Python và các thư viện Python thường được sử dụng trong khoa học dữ liệu. 
+
+Bảng tổng kết các kiến thức cơ bản trong Python [tải xuống tại đây](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Python/Python3_reference_cheat_sheet.pdf)
+
+<img src="https://imgur.com/1hMqrPZ.png">
+
 # Hướng dẫn sử dụng PyCharm 
 ### Mục Lục 
 [I. Mở đầu](#Modau)
