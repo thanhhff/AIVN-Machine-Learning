@@ -37,10 +37,10 @@
 | Assignment | Linear Regression with One Variable | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Linear-Regression-with-One-Variable.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%202/Assignment/Assignment-Linear-Regression-with-One-Variable.ipynb) |
 | *** | | | |
 | **Tuần 3** |**Bài toán hồi quy tuyến tính đa biến** <br/>(Linear Regression with Multiple Variables)</br>| |
-| 1 | Linear Regression with Multiple Variables | View | View |
-| 2 | Feature Normalization và Vectorization| View | View |
+| 1 | Linear Regression with Multiple Variables | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Linear-Regression-with-multiple-variables.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Linear-Regression-with-multiple-variables.ipynb) |
+| 2 | Feature Normalization và Nghiệm nhanh cho bài toán Linear Regression| View | View |
 | 3 | Gradient Descent Tips | View | View | 
-| 4 | Nghiệm nhanh cho bài toán Linear Regression | View | View |
+| 4 | Code dự đoán doanh số bán hàng | View | View |
 | 5 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
 | Quiz | Linear Regression with Multiple Variables | View | View |
 | Assignment | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) |
