@@ -46,6 +46,7 @@
 | Quiz | Linear Regression with Multiple Variables | View | View |
 | Assignment | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) |
 | Assignment | Linear Regression with Multiple Variables | View | View |
+| Assignment | Polynomial Regression | View | View |
 
 
 ## Nội Dung Tiếp Theo 
