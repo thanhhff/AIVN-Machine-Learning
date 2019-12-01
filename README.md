@@ -20,9 +20,9 @@
 | 2 | Giải tích cơ bản | View | View |
 | 3 | Xác suất cơ bản | View | View |
 | 4 | Số liệu thống kê cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Statistical.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Statistical.ipynb) |
-| 4 | Ký hiệu toán thường dùng trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) |
-| 5 | Python cơ bản |  [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) |
-| 6 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
+| 5 | Ký hiệu toán thường dùng trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) |
+| 6 | Python cơ bản |  [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) |
+| 7 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
 | Quiz | Kiến thức toán và Python | View | View |
 | Assignment | Cài đặt các công thức toán cơ bản bằng Python | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Cai-Dat-Cong-Thuc-Toan-Bang-Python.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Cai-Dat-Cong-Thuc-Toan-Bang-Python.ipynb) |
 | Assignment | Thực hiện tính hệ số tương quan giữa 2 ảnh bằng Python | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Tinh-He-So-Tuong-Quan.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Tinh-He-So-Tuong-Quan.ipynb) |
