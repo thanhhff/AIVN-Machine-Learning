@@ -18,7 +18,7 @@
 | **Tuần 1** |**Ôn tập kiến thức toán và Python**| |
 | 1 | Đại số tuyến tính cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/dai-so-tuyen-tinh.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/dai-so-tuyen-tinh.ipynb) |
 | 2 | Giải tích cơ bản | View | View |
-| 3 | Xác suất cơ bản | View | View |
+| 3 | Xác suất cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/xac-suat-co-ban.ipynb) | View |
 | 4 | Số liệu thống kê cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Statistical.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Statistical.ipynb) |
 | 5 | Ký hiệu toán thường dùng trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) |
 | 6 | Python cơ bản |  [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) |
