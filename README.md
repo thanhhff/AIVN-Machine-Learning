@@ -21,8 +21,9 @@
 | 3 | Xác suất cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/xac-suat-co-ban.ipynb) | View |
 | 4 | Số liệu thống kê cơ bản | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Statistical.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Statistical.ipynb) |
 | 5 | Ký hiệu toán thường dùng trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/ky-hieu-toan-hoc.ipynb) |
-| 6 | Python cơ bản |  [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) |
-| 7 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
+| 6 | Tài liệu toán cần thiết (Anh Vũ Khắc Tiệp) | | [View](https://machinelearningcoban.com/math/) |
+| 7 | Python cơ bản |  [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Python-Basic.ipynb) |
+| 8 | Những lỗi thường gặp trong Python |  | [View](https://aivietnam.ai/courses/aisummer2019/lessons/nhung-loi-thuong-gap-trong-python/) |
 | Quiz | Kiến thức toán và Python | View | View |
 | Assignment | Cài đặt các công thức toán cơ bản bằng Python | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Cai-Dat-Cong-Thuc-Toan-Bang-Python.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Cai-Dat-Cong-Thuc-Toan-Bang-Python.ipynb) |
 | Assignment | Thực hiện tính hệ số tương quan giữa 2 ảnh bằng Python | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Tinh-He-So-Tuong-Quan.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%201/Assignment/Assignment-Tinh-He-So-Tuong-Quan.ipynb) |
