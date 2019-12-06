@@ -40,8 +40,8 @@
 | *** | | | |
 | **Tuần 3** |**Bài toán hồi quy tuyến tính đa biến và Hồi quy đa thức** <br/>(Linear Regression with Multiple Variables & Polynomial Regression)</br>| |
 | 1 | Linear Regression with Multiple Variables | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Linear-Regression-with-multiple-variables.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Linear-Regression-with-multiple-variables.ipynb) |
-| 2 | Feature Normalization và Nghiệm nhanh cho bài toán Linear Regression| View | View |
-| 3 | Gradient Descent Tips | View | View | 
+| 2 | Normal Equation và Gradient Descent Tips| View | View |
+| 3 | Feature Normalization | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Feature-Normalization.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Feature-Normalization.ipynb) | 
 | 4 | Polynomial Regression | View | View |
 | 5 | Code dự đoán doanh số bán hàng | View | View |
 | 6 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
