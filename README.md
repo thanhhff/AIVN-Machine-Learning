@@ -44,7 +44,7 @@
 | 3 | Gradient Descent Tips và Normal Equation | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Normal-Equation-Gradient-Descent-Tips.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Normal-Equation-Gradient-Descent-Tips.ipynb) |
 | 4 | Polynomial Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Polynomial-regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Polynomial-regression.ipynb) |
 | 5 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
-| Quiz | Linear Regression with Multiple Variables | View | View |
+| Quiz | Linear Regression with Multiple Variables |  | [View](https://forms.gle/dLT9Yus8wXotR1zK6) |
 | Assignment | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) |
 | Assignment | Linear Regression with Multiple Variables | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) |
 
