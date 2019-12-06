@@ -43,11 +43,10 @@
 | 2 | Feature Normalization | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Feature-Normalization.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Feature-Normalization.ipynb) | 
 | 3 | Gradient Descent Tips và Normal Equation | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Normal-Equation-Gradient-Descent-Tips.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Normal-Equation-Gradient-Descent-Tips.ipynb) |
 | 4 | Polynomial Regression | View | View |
-| 5 | Code dự đoán doanh số bán hàng | View | View |
-| 6 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
+| 5 | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Matplotlib-General-Concepts.ipynb) |
 | Quiz | Linear Regression with Multiple Variables | View | View |
 | Assignment | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) |
-| Assignment | Linear Regression with Multiple Variables | View | View |
+| Assignment | Linear Regression with Multiple Variables | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) |
 | Assignment | Polynomial Regression | View | View |
 
 
