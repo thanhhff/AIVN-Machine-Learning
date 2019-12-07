@@ -47,15 +47,17 @@
 | Quiz | Linear Regression with Multiple Variables |  | [View](https://forms.gle/dLT9Yus8wXotR1zK6) |
 | Assignment | Python - Matplotlib | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Python-Matplotlib.ipynb) |
 | Assignment | Linear Regression with Multiple Variables | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) |
-
+| *** | | | |
+| **Tuần 4** |**Logistic Regression**| |
+| 1 | Các hàm Activation trong Machine Learning | View | View |
+| 2 | Logistic Regression | View | View |
+| 3 | Cost Function | View | View |
+| 4 | Normal Euqation | View | View |
+| Quiz | Logistic Regression | | View |
+| Assignment | Python - Xây dựng các hàm Activation | View | View |
+| Assignment | Logistic Regression | View | View |
 
 ## Nội Dung Tiếp Theo 
-  
-- [ ] Tuần 4: Logistic Regression
-  - [ ] Binary Classification
-  - [ ] Decision Boundary
-  - [ ] Cost Function
-  - [ ] Normal Equation
   
 - [ ] Tuần 5: Softmax & Learning with Large Datasets
   - [ ] Softmax
