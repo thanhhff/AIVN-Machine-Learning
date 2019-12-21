@@ -49,20 +49,21 @@
 | Assignment | Linear Regression with Multiple Variables | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%203/Assignment/Assignment-Linear-Regression-with-Multiple-Variables.ipynb) |
 | *** | | | |
 | **Tuần 4** |**Logistic Regression**| |
-| 1 | Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/1.%20Logistic%20Regression.ipynb) | View |
-| 2 | Gradient Descent Tips và Normal Equation (Logistic Regression) | View | View |
-| 3 | Code minh hoạ Logistic Regression | View | View |
+| 1 | Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/1.%20Logistic%20Regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/1.%20Logistic%20Regression.ipynb) |
+| 2 | Regularization (Linear Regression và Logistic Regression)| View | View |
+| 3 | Phân biệt 2 chữ số viết tay | View | View |
 | Quiz | Logistic Regression | | View |
-| Assignment | Python - Xây dựng các hàm Activation | View | View |
 | Assignment | Logistic Regression | View | View |
+| *** | | | |
+| **Tuần 5** |**Softmax Regression & Learning with Large Datasets**| |
+| 1 | Softmax Regression | View | View |
+| 2 | Stochastic, Mini-Batch, Batch Gradient Descent | View | View |
+| 3 | | View | View |
+| Quiz | | | View |
+| Assignment | | View | View |
 
 ## Nội Dung Tiếp Theo 
-  
-- [ ] Tuần 5: Softmax & Learning with Large Datasets
-  - [ ] Softmax
-  - [ ] Stochastic Gradient Descent
-  - [ ] Mini-Batch Gradient Descent
- 
+
 - [ ] Tuần 6: Advice for Applying Machine Learning
   - [ ] Evaluating a Hypothesis
   - [ ] Model Selection and Train/Validation/Test Sets
