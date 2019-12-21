@@ -50,8 +50,8 @@
 | *** | | | |
 | **Tuần 4** |**Logistic Regression**| |
 | 1 | Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/1.%20Logistic%20Regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/1.%20Logistic%20Regression.ipynb) |
-| 2 | Regularization (Linear Regression và Logistic Regression)| View | View |
-| 3 | Phân biệt 2 chữ số viết tay | View | View |
+| 2 | Regularization (Linear Regression và Logistic Regression)| [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/2.%20Regularization.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/2.%20Regularization.ipynb) |
+| 3 | Phân biệt 2 chữ số viết tay | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/3.%20B%C3%A0i%20to%C3%A1n%20ph%C3%A2n%20lo%E1%BA%A1i%202%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/3.%20B%C3%A0i%20to%C3%A1n%20ph%C3%A2n%20lo%E1%BA%A1i%202%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay.ipynb) |
 | Quiz | Logistic Regression | | View |
 | Assignment | Logistic Regression | View | View |
 | *** | | | |
