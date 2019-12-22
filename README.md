@@ -52,17 +52,19 @@
 | 1 | Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/1.%20Logistic%20Regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/1.%20Logistic%20Regression.ipynb) |
 | 2 | Regularization (Linear Regression và Logistic Regression)| [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/2.%20Regularization.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/2.%20Regularization.ipynb) |
 | 3 | Phân biệt 2 chữ số viết tay | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/3.%20B%C3%A0i%20to%C3%A1n%20ph%C3%A2n%20lo%E1%BA%A1i%202%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/3.%20B%C3%A0i%20to%C3%A1n%20ph%C3%A2n%20lo%E1%BA%A1i%202%20ch%E1%BB%AF%20s%E1%BB%91%20vi%E1%BA%BFt%20tay.ipynb) |
+| 4 | Phân loại nhiều nhóm bằng Logistic Regression (One vs All) | View | View |
 | Quiz | Logistic Regression | | [View](https://forms.gle/AEWtFceUFjvd4mdn8) |
 | Assignment | Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Logistic-Regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Logistic-Regression.ipynb) |
 | Assignment | Regularization Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Regularized-logistic-regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Regularized-logistic-regression.ipynb) |
 | *** | | | |
 | **Tuần 5** |**Softmax Regression & Learning with Large Datasets**| |
 | 1 | Các hàm kích hoạt phổ biến trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/activation-function.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/activation-function.ipynb) |
-| 2 | Softmax Regression | View | View |
-| 3 | Stochastic, Mini-Batch, Batch Gradient Descent | View | View |
+| 2 | Stochastic, Mini-Batch, Batch Gradient Descent | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/Stochastic%2C%20Mini-Batch%2C%20Batch%20Gradient%20Descent.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/Stochastic%2C%20Mini-Batch%2C%20Batch%20Gradient%20Descent.ipynb) |
+| 3 | Phân loại nhiềm nhóm: Softmax Regression | View | View |
 | 4 | ? | View | View |
 | Quiz | Softmax Regression và Learning with Large Datasets | | View |
 | Assignment | Lập trình các hàm kích hoạt | View | View |
+| Assignment | Stochastic, Mini-Batch Gradient Descent | View | View |
 | Assignment | Softmax Regression cho bài toán Mnist Fashion | View | View |
 | *** | | | |
 | **Tuần 6** |**Áp dụng Machine Learning**| |
