@@ -57,7 +57,7 @@
 | Assignment | Regularization Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Regularized-logistic-regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Regularized-logistic-regression.ipynb) |
 | *** | | | |
 | **Tuần 5** |**Softmax Regression & Learning with Large Datasets**| |
-| 1 | Các hàm kích hoạt tiêu biểu trong Machine Learning | View | View |
+| 1 | Các hàm kích hoạt phổ biến trong Machine Learning | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/activation-function.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/activation-function.ipynb) |
 | 2 | Softmax Regression | View | View |
 | 3 | Stochastic, Mini-Batch, Batch Gradient Descent | View | View |
 | 4 | ? | View | View |
