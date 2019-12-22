@@ -63,7 +63,7 @@
 | 3 | Phân loại nhiềm nhóm: Softmax Regression | View | View |
 | 4 | ? | View | View |
 | Quiz | Softmax Regression và Learning with Large Datasets | | View |
-| Assignment | Lập trình các hàm kích hoạt | View | View |
+| Assignment | Lập trình các hàm kích hoạt | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/Assignment/Activation-Function.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%205/Assignment/Activation-Function.ipynb) |
 | Assignment | Stochastic, Mini-Batch Gradient Descent | View | View |
 | Assignment | Softmax Regression cho bài toán Mnist Fashion | View | View |
 | *** | | | |
