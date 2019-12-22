@@ -57,23 +57,25 @@
 | Assignment | Regularization Logistic Regression | [View](https://github.com/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Regularized-logistic-regression.ipynb) | [View](https://nbviewer.jupyter.org/github/thanhhff/AIVN-Machine-Learning/blob/master/Week%204/Assignment/Assignment-Regularized-logistic-regression.ipynb) |
 | *** | | | |
 | **Tuần 5** |**Softmax Regression & Learning with Large Datasets**| |
-| 1 | Softmax Regression | View | View |
-| 2 | Stochastic, Mini-Batch, Batch Gradient Descent | View | View |
-| 3 | | View | View |
-| Quiz | | | View |
-| Assignment | | View | View |
+| 1 | Các hàm kích hoạt tiêu biểu trong Machine Learning | View | View |
+| 2 | Softmax Regression | View | View |
+| 3 | Stochastic, Mini-Batch, Batch Gradient Descent | View | View |
+| 4 | ? | View | View |
+| Quiz | Softmax Regression và Learning with Large Datasets | | View |
+| Assignment | Lập trình các hàm kích hoạt | View | View |
+| Assignment | Softmax Regression cho bài toán Mnist Fashion | View | View |
+| *** | | | |
+| **Tuần 6** |**Áp dụng Machine Learning**| |
+| 1 | Đánh giá hàm giả thuyết & Lựa chọn mô hình phù hợp | View | View |
+| 2 | Train / Validation / Test Sets | View | View |
+| 3 | Chuẩn đoán Bias vs. Variance & Regularization | View | View |
+| 4 | Learning Curves | View | View |
+| 5 | Machine Learning System Design | View | View |
+| Quiz | Áp dụng Machine Learning | | View |
+| *** | | | |
+| **Tuần 7** |**TensorFlow**| |
 
 ## Nội Dung Tiếp Theo 
-
-- [ ] Tuần 6: Advice for Applying Machine Learning
-  - [ ] Evaluating a Hypothesis
-  - [ ] Model Selection and Train/Validation/Test Sets
-  - [ ] Diagnosing Bias vs. Variance
-  - [ ] Regularization and Bias/Variance
-  - [ ] Learning Curves
-  - [ ] Machine Learning System Design
-  
-- [ ] Tuần 7: TensorFlow 
   
 - [ ] Tuần 8: Neural Networks: Representation
   - [ ] Non-linear Hypotheses
