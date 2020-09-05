@@ -1,5 +1,9 @@
 # AIVN-Course-Machine-Learning
 
+## Nội dung đang được cập nhật tiếp tục tại:
+
+https://github.com/ProtonX-AI/machine-learning-with-tensorflow-and-pytorch
+
 - [ ] Đang trong tiến trình xây dựng (2020)
 
 ## Nội Dung
